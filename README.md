@@ -10,7 +10,7 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 
 1. Erdanowski, Tomasz
 1. Gisko, Alicja
-1. Jacewicz, Małgorzata
+1. [Jacewicz, Małgorzata](https://htmlpreview.github.io/?https://github.com/mjacewicz/mjacewicz.github.io/blob/master/index.html)[README.md](notatki.md)[Moje podróże](http://slides.com/mjacewicz/deck)
 1. Nowak, Łukasz
 1. Nowicka, Beata
 1. Ostapczuk, Andrzej
