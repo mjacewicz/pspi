@@ -9,7 +9,7 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 
 1. [Erdanowski, Tomasz](http://terdanowski.github.io/)
 1. Gisko, Alicja
-1. Jacewicz, Małgorzata
+1. [Jacewicz, Małgorzata](https://htmlpreview.github.io/?https://github.com/mjacewicz/mjacewicz.github.io/blob/master/index.html) [README.md](notatki.md) [Moje podróże](http://slides.com/mjacewicz/deck)
 1. Łuksza, Natalia
 1. [Nowak, Łukasz](http://nowakl.github.io/)
     - [README.md](https://github.com/NowakL/Moje-notatki-z-J-zyk-w-programowania),         [README.adoc](https://github.com/NowakL/PSPI-1/blob/master/Kalistenika.asc)
